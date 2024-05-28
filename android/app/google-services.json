@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "458181458037",
+    "project_id": "petcoffeeshop-888c1",
+    "storage_bucket": "petcoffeeshop-888c1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:458181458037:android:000d8bc8e9f932af13a03c",
+        "android_client_info": {
+          "package_name": "com.petcoffeemobilefirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "458181458037-fleb9mi90sjq4dlssbi84ph2qjh5h7pt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.petcoffeemobilefirebase",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "458181458037-pv1t1tfveudn761o0ajjlqmmqph0nht5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.petcoffeemobilefirebase",
+            "certificate_hash": "59395a60f345aa154701e3b0c3f8f8d66627fcb5"
+          }
+        },
+        {
+          "client_id": "458181458037-t32p96402f2q0338tqn0hgbhhobv19qc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdkSG5HaQv5BRAiYrgAGmD5YylQuGx_JE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "458181458037-t32p96402f2q0338tqn0hgbhhobv19qc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
